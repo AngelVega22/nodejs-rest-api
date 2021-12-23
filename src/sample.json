@@ -2,13 +2,14 @@
  {
    "id" : 1,
    "title": "Spiderman",
-   "Genero": "Superheroes"
-
+   "Genero": "Superheroes",
+   "year" : 2021
  },
  {
     "id" : 2,
     "title": "Batman",
-    "Genero": "Superheroes"
+    "Genero": "Superheroes",
+    "year" : 2022
  
   }
 
