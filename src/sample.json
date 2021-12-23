@@ -1,0 +1,16 @@
+[
+ {
+   "id" : 1,
+   "title": "Spiderman",
+   "Genero": "Superheroes"
+
+ },
+ {
+    "id" : 2,
+    "title": "Batman",
+    "Genero": "Superheroes"
+ 
+  }
+
+
+]
